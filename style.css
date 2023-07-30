@@ -1,0 +1,29 @@
+/* #animate-me {
+  height: 100px;
+  width: 100px;
+  border: thin solid black;
+  transition: 0.5s;
+}
+#animate-me:active {
+  animation-name: moveRight;
+  animation-duration: 2s;
+}
+
+@keyframes moveRight {
+  0% {
+    margin-left: 0px;
+  }
+  100% {
+    margin-left: 300px;
+  }
+}
+
+.animated {
+  animation-name: moveRight;
+  animation-duration: 5s;
+} */
+
+h1 {
+  border-width: 5px;
+  border: dashed blue;
+}
